@@ -1,0 +1,1300 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.00000e-03 Reference value :  3.00000e-03 Reference value :  1.79900e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  2.00000e-03 Reference value :  4.00000e-03
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.47000e-01 Reference value :  1.52000e-01 Reference value :  1.54000e-01 Reference value :  1.55000e-01 Reference value :  1.56000e-01 Reference value :  1.57000e-01 Reference value :  1.58000e-01 Reference value :  1.60000e-01 Reference value :  1.62000e-01 Reference value :  1.64000e-01 Reference value :  1.65000e-01 Reference value :  1.67000e-01 Reference value :  1.68000e-01 Reference value :  1.70000e-01 Reference value :  1.71000e-01 Reference value :  1.72000e-01 Reference value :  1.73000e-01 Reference value :  1.75000e-01 Reference value :  1.77000e-01 Reference value :  1.78000e-01 Reference value :  1.80000e-01 Reference value :  1.82000e-01 Reference value :  1.84000e-01 Reference value :  1.86000e-01 Reference value :  1.88000e-01 Reference value :  1.90000e-01 Reference value :  1.92000e-01 Reference value :  1.94000e-01 Reference value :  1.96000e-01 Reference value :  1.98000e-01 Reference value :  2.00000e-01 Reference value :  3.91000e-01 Reference value :  5.28000e-01 Reference value :  6.70000e-01 Reference value :  8.93000e-01 Reference value :  8.95000e-01 Reference value :  8.96000e-01 Reference value :  8.98000e-01 Reference value :  1.18500e+00 Reference value :  1.49400e+00 Reference value :  1.50200e+00 Reference value :  1.50400e+00 Reference value :  1.50700e+00 Reference value :  1.50900e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.00000e-03 Reference value :  2.00000e-03 Reference value :  3.00000e-03 Reference value :  4.00000e-03 Reference value :  5.00000e-03 Reference value :  6.00000e-03 Reference value :  7.00000e-03 Reference value :  9.00000e-03 Reference value :  1.00000e-02 Reference value :  1.20000e-02 Reference value :  1.40000e-02 Reference value :  1.60000e-02 Reference value :  5.90000e-02 Reference value :  7.10000e-02 Reference value :  7.30000e-02 Reference value :  7.50000e-02 Reference value :  7.70000e-02 Reference value :  7.80000e-02 Reference value :  8.00000e-02 Reference value :  8.20000e-02 Reference value :  8.40000e-02 Reference value :  8.60000e-02 Reference value :  8.80000e-02 Reference value :  9.00000e-02 Reference value :  9.20000e-02 Reference value :  9.40000e-02 Reference value :  9.60000e-02 Reference value :  9.70000e-02 Reference value :  9.90000e-02 Reference value :  1.01000e-01 Reference value :  1.02000e-01 Reference value :  1.04000e-01 Reference value :  1.06000e-01 Reference value :  6.18000e-01 Reference value :  6.20000e-01 Reference value :  7.42000e-01 Reference value :  7.44000e-01 Reference value :  1.14000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.00000e-03 Reference value :  4.00000e-03 Reference value :  6.00000e-03 Reference value :  7.00000e-03 Reference value :  8.00000e-03 Reference value :  9.00000e-03 Reference value :  1.10000e-02 Reference value :  1.20000e-02 Reference value :  1.40000e-02 Reference value :  1.50000e-02 Reference value :  1.70000e-02 Reference value :  1.90000e-02 Reference value :  2.10000e-02 Reference value :  2.30000e-02 Reference value :  2.40000e-02 Reference value :  2.60000e-02 Reference value :  2.80000e-02 Reference value :  3.00000e-02 Reference value :  3.20000e-02 Reference value :  6.10000e-02 Reference value :  1.03000e-01 Reference value :  1.04000e-01 Reference value :  1.05000e-01 Reference value :  1.06000e-01 Reference value :  3.74000e-01 Reference value :  3.75000e-01 Reference value :  3.76000e-01 Reference value :  3.77000e-01 Reference value :  3.78000e-01 Reference value :  3.80000e-01 Reference value :  4.72000e-01 Reference value :  6.04000e-01 Reference value :  6.06000e-01 Reference value :  6.08000e-01 Reference value :  1.02100e+00 Reference value :  1.11700e+00 Reference value :  1.23500e+00 Reference value :  1.23700e+00 Reference value :  1.23900e+00 Reference value :  1.24100e+00 Reference value :  1.41900e+00 Reference value :  1.42100e+00 Reference value :  1.42300e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.56800e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.76000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  6.00000e-03 Reference value :  1.30000e-02 Reference value :  2.80000e-02 Reference value :  3.00000e-02 Reference value :  3.20000e-02 Reference value :  3.40000e-02 Reference value :  3.60000e-02 Reference value :  3.90000e-02 Reference value :  4.10000e-02 Reference value :  2.90000e-01 Reference value :  2.92000e-01 Reference value :  3.73000e-01 Reference value :  4.43000e-01 Reference value :  4.45000e-01 Reference value :  4.47000e-01 Reference value :  4.49000e-01 Reference value :  4.50000e-01 Reference value :  4.52000e-01
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.53000e-01 Reference value :  6.62000e-01 Reference value :  1.37900e+00 Reference value :  1.56100e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  8.93000e-01 Reference value :  8.95000e-01 Reference value :  8.97000e-01 Reference value :  8.99000e-01 Reference value :  1.07300e+00 Reference value :  1.25100e+00 Reference value :  1.37600e+00 Reference value :  1.37800e+00 Reference value :  1.38000e+00 Reference value :  1.40100e+00 Reference value :  1.40300e+00 Reference value :  1.60600e+00 Reference value :  1.60700e+00 Reference value :  1.60900e+00 Reference value :  1.61200e+00 Reference value :  1.61400e+00 Reference value :  1.61900e+00 Reference value :  1.63500e+00 Reference value :  1.67600e+00 Reference value :  1.67700e+00 Reference value :  1.67900e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.75000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.54600e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.73000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.49300e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.25700e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.75900e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.73500e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.42300e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.65200e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.40400e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.64500e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.51900e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.14400e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.70800e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.68900e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  3.87000e-01 Reference value :  1.30100e+00 Reference value :  1.30300e+00 Reference value :  1.30500e+00 Reference value :  1.30700e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  2.00000e-03 Reference value :  4.00000e-03 Reference value :  1.04400e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.18000e-01 Reference value :  2.15000e-01 Reference value :  2.82000e-01 Reference value :  3.86000e-01 Reference value :  9.38000e-01 Reference value :  1.28300e+00 Reference value :  1.60600e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.03000e+00 Reference value :  1.79000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  4.90000e-01 Reference value :  6.57000e-01 Reference value :  1.12800e+00 Reference value :  1.72700e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.42000e-01 Reference value :  4.89000e-01 Reference value :  9.35000e-01 Reference value :  1.13600e+00 Reference value :  1.17800e+00 Reference value :  1.31500e+00 Reference value :  1.66200e+00 Reference value :  1.79700e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  6.62000e-01 Reference value :  6.64000e-01 Reference value :  8.17000e-01 Reference value :  9.01000e-01 Reference value :  9.03000e-01 Reference value :  9.05000e-01 Reference value :  9.06000e-01 Reference value :  9.08000e-01 Reference value :  9.09000e-01 Reference value :  9.10000e-01 Reference value :  9.11000e-01 Reference value :  9.13000e-01 Reference value :  9.15000e-01 Reference value :  9.16000e-01 Reference value :  9.17000e-01 Reference value :  9.18000e-01 Reference value :  9.19000e-01 Reference value :  9.20000e-01 Reference value :  9.22000e-01 Reference value :  9.23000e-01 Reference value :  9.24000e-01 Reference value :  9.25000e-01 Reference value :  9.26000e-01 Reference value :  9.27000e-01 Reference value :  9.28000e-01 Reference value :  9.31000e-01 Reference value :  1.00500e+00 Reference value :  1.00600e+00 Reference value :  1.00700e+00 Reference value :  1.02800e+00 Reference value :  1.04200e+00 Reference value :  1.04300e+00 Reference value :  1.04400e+00 Reference value :  1.04500e+00 Reference value :  1.04800e+00 Reference value :  1.04900e+00 Reference value :  1.05000e+00 Reference value :  1.10600e+00 Reference value :  1.10700e+00 Reference value :  1.14200e+00 Reference value :  1.14300e+00 Reference value :  1.14400e+00 Reference value :  1.14600e+00 Reference value :  1.14700e+00 Reference value :  1.14800e+00 Reference value :  1.14900e+00 Reference value :  1.15100e+00 Reference value :  1.26700e+00 Reference value :  1.47200e+00 Reference value :  1.47300e+00 Reference value :  1.47500e+00 Reference value :  1.47700e+00 Reference value :  1.47800e+00 Reference value :  1.47900e+00 Reference value :  1.48000e+00 Reference value :  1.48100e+00 Reference value :  1.48300e+00 Reference value :  1.48400e+00 Reference value :  1.48500e+00 Reference value :  1.48600e+00 Reference value :  1.48800e+00 Reference value :  1.48900e+00 Reference value :  1.49000e+00 Reference value :  1.49100e+00 Reference value :  1.49200e+00 Reference value :  1.49300e+00 Reference value :  1.49400e+00 Reference value :  1.49500e+00 Reference value :  1.49600e+00 Reference value :  1.49700e+00 Reference value :  1.49800e+00 Reference value :  1.49900e+00 Reference value :  1.50000e+00 Reference value :  1.50100e+00 Reference value :  1.50500e+00 Reference value :  1.50600e+00 Reference value :  1.50700e+00 Reference value :  1.50800e+00 Reference value :  1.50900e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.00000e-03 Reference value :  3.00000e-03 Reference value :  5.00000e-03 Reference value :  6.00000e-03 Reference value :  7.00000e-03 Reference value :  8.00000e-03 Reference value :  1.00000e-02 Reference value :  1.10000e-02 Reference value :  1.20000e-02 Reference value :  1.30000e-02 Reference value :  1.40000e-02 Reference value :  1.50000e-02 Reference value :  1.60000e-02 Reference value :  1.70000e-02 Reference value :  1.80000e-02 Reference value :  1.90000e-02 Reference value :  2.00000e-02 Reference value :  2.10000e-02 Reference value :  2.30000e-02 Reference value :  2.50000e-02 Reference value :  2.70000e-02 Reference value :  2.90000e-02 Reference value :  3.00000e-02 Reference value :  3.10000e-02 Reference value :  3.30000e-02 Reference value :  3.40000e-02 Reference value :  3.50000e-02 Reference value :  3.60000e-02 Reference value :  3.70000e-02 Reference value :  3.80000e-02 Reference value :  3.90000e-02 Reference value :  6.50000e-02 Reference value :  6.60000e-02 Reference value :  6.70000e-02 Reference value :  6.80000e-02 Reference value :  6.90000e-02 Reference value :  7.00000e-02 Reference value :  7.10000e-02 Reference value :  7.20000e-02 Reference value :  1.39000e-01 Reference value :  2.00000e-01 Reference value :  2.63000e-01 Reference value :  3.03000e-01 Reference value :  3.05000e-01 Reference value :  3.06000e-01 Reference value :  3.07000e-01 Reference value :  3.09000e-01 Reference value :  4.57000e-01 Reference value :  8.55000e-01 Reference value :  8.98000e-01 Reference value :  8.99000e-01 Reference value :  9.00000e-01 Reference value :  9.24000e-01 Reference value :  9.25000e-01 Reference value :  9.26000e-01 Reference value :  9.28000e-01 Reference value :  9.29000e-01 Reference value :  9.30000e-01 Reference value :  1.04300e+00 Reference value :  1.04400e+00 Reference value :  1.04600e+00 Reference value :  1.04700e+00 Reference value :  1.04800e+00 Reference value :  1.04900e+00 Reference value :  1.05000e+00 Reference value :  1.05100e+00 Reference value :  1.05200e+00 Reference value :  1.05400e+00 Reference value :  1.05500e+00 Reference value :  1.05600e+00 Reference value :  1.05700e+00 Reference value :  1.05800e+00 Reference value :  1.66000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.70700e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.78100e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.33700e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.95000e-01
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.71000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.55700e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.11300e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.55000e-01 Reference value :  1.20400e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.35400e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.09300e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  6.88000e-01 Reference value :  1.62900e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  2.33000e-01 Reference value :  2.57000e-01 Reference value :  8.31000e-01 Reference value :  1.09700e+00 Reference value :  1.14200e+00 Reference value :  1.14300e+00 Reference value :  1.32100e+00 Reference value :  1.32300e+00 Reference value :  1.47800e+00 Reference value :  1.68400e+00 Reference value :  1.68600e+00 Reference value :  1.68800e+00 Reference value :  1.69000e+00 Reference value :  1.69100e+00 Reference value :  1.69300e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  7.09000e-01 Reference value :  7.54000e-01 Reference value :  7.56000e-01 Reference value :  7.58000e-01 Reference value :  7.59000e-01 Reference value :  7.61000e-01 Reference value :  7.95000e-01 Reference value :  8.44000e-01 Reference value :  1.06700e+00 Reference value :  1.59700e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.50700e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  3.56000e-01 Reference value :  4.94000e-01 Reference value :  4.97000e-01 Reference value :  8.48000e-01 Reference value :  1.02100e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  8.87000e-01
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  4.26000e-01 Reference value :  5.89000e-01 Reference value :  1.10800e+00 Reference value :  1.12500e+00 Reference value :  1.12600e+00 Reference value :  1.12800e+00 Reference value :  1.13000e+00 Reference value :  1.13100e+00 Reference value :  1.13300e+00 Reference value :  1.13500e+00 Reference value :  1.13600e+00 Reference value :  1.13800e+00 Reference value :  1.14000e+00 Reference value :  1.14100e+00 Reference value :  1.14300e+00 Reference value :  1.14500e+00 Reference value :  1.14600e+00 Reference value :  1.14800e+00 Reference value :  1.14900e+00 Reference value :  1.15100e+00 Reference value :  1.15300e+00 Reference value :  1.15400e+00 Reference value :  1.15600e+00 Reference value :  1.15800e+00 Reference value :  1.15900e+00 Reference value :  1.16100e+00 Reference value :  1.16300e+00 Reference value :  1.16400e+00 Reference value :  1.16600e+00 Reference value :  1.16700e+00 Reference value :  1.16900e+00 Reference value :  1.17100e+00 Reference value :  1.17200e+00 Reference value :  1.17500e+00 Reference value :  1.17700e+00 Reference value :  1.18800e+00 Reference value :  1.19200e+00 Reference value :  1.19300e+00 Reference value :  1.19500e+00 Reference value :  1.19700e+00 Reference value :  1.19900e+00 Reference value :  1.20000e+00 Reference value :  1.20200e+00 Reference value :  1.20300e+00 Reference value :  1.20500e+00 Reference value :  1.20700e+00 Reference value :  1.22500e+00 Reference value :  1.23400e+00 Reference value :  1.27800e+00 Reference value :  1.41300e+00 Reference value :  1.43700e+00 Reference value :  1.46900e+00 Reference value :  1.51200e+00 Reference value :  1.55500e+00 Reference value :  1.58400e+00 Reference value :  1.58600e+00 Reference value :  1.59200e+00 Reference value :  1.59400e+00 Reference value :  1.69000e+00 Reference value :  1.79600e+00 Reference value :  1.80000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  6.89000e-01 Reference value :  7.06000e-01 Reference value :  7.07000e-01 Reference value :  1.14100e+00 Reference value :  1.45200e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.33500e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00 Reference value :  1.53000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/inv/inv_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+No. of Data Rows : 1801
+ngspice-45 done
+

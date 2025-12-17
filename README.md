@@ -1,2 +1,2 @@
-# sky130_library
+# bmott_sky130_library
 Collection of standard schematics, layouts, scripts for circuit design using the sky130 pdk
