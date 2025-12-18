@@ -1,0 +1,29 @@
+
+Magic 8.3 revision 547 - Compiled on Mon Sep  1 14:12:37 EDT 2025.
+Starting magic under Tcl interpreter
+Using the terminal as the console.
+Using NULL graphics device.
+Processing system .magicrc file
+Sourcing design .magicrc for technology sky130A ...
+2 Magic internal units = 1 Lambda
+Input style sky130(): scaleFactor=2, multiplier=2
+The following types are not handled by extraction and will be treated as non-electrical types:
+    ubm 
+Scaled tech values by 2 / 1 to match internal grid scaling
+Loading sky130A Device Generator Menu ...
+Using technology "sky130A", version 1.0.538-0-gf473194
+Root cell box:
+           width x height  (   llx,  lly  ), (   urx,  ury  )
+
+microns:   0.000 x 0.000   ( 0.000,  0.000), ( 0.000,  0.000)
+lambda:     0.00 x 0.00    (  0.00,  0.00 ), (  0.00,  0.00 )
+internal:      0 x 0       (     0,  0    ), (     0,  0    )
+Warning: cell <inv> from file inv.mag is not writeable
+Cell inv read from current working directory
+Warning: cell <sky130_fd_pr__pfet_01v8_7WBWU4> from file sky130_fd_pr__pfet_01v8_7WBWU4.mag is not writeable
+Cell sky130_fd_pr__pfet_01v8_7WBWU4 read from current working directory
+Cell sky130_fd_pr__nfet_01v8_HJP2VQ read from current working directory
+Extracting sky130_fd_pr__pfet_01v8_7WBWU4 into extfiles/sky130_fd_pr__pfet_01v8_7WBWU4.ext:
+Extracting sky130_fd_pr__nfet_01v8_HJP2VQ into extfiles/sky130_fd_pr__nfet_01v8_HJP2VQ.ext:
+Extracting inv into extfiles/inv.ext:
+exttospice finished.

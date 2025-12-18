@@ -12,24 +12,24 @@ N -60 50 -40 50 {lab=in}
 N -60 -50 -60 -40 {lab=in}
 N -80 -0 -60 0 {lab=in}
 N -0 -100 -0 -80 {lab=VDD}
-N -0 80 0 100 {lab=#net1}
-N -0 50 10 50 {lab=#net1}
-N 10 50 10 80 {lab=#net1}
-N 0 80 10 80 {lab=#net1}
+N -0 80 0 100 {lab=VSS}
+N -0 50 10 50 {lab=VSS}
+N 10 50 10 80 {lab=VSS}
+N 0 80 10 80 {lab=VSS}
 N 0 -50 10 -50 {lab=VDD}
 N 10 -80 10 -50 {lab=VDD}
 N 0 -80 10 -80 {lab=VDD}
 N 0 0 80 0 {lab=out}
-C {sky130_fd_pr/nfet_01v8.sym} -20 50 0 0 {name=M2
+C {sky130_fd_pr/nfet_01v8.sym} -20 50 0 0 {name=MN
 L=0.15
 W=1  
 nf=1 mult=1
 model=nfet_01v8
 spiceprefix=X
 }
-C {sky130_fd_pr/pfet_01v8.sym} -20 -50 0 0 {name=M11
+C {sky130_fd_pr/pfet_01v8.sym} -20 -50 0 0 {name=MP
 L=0.15
-W=1
+W=2
 nf=1 mult=1
 model=pfet_01v8
 spiceprefix=X
