@@ -13,7 +13,7 @@ LAYOUT:\
     tgate_2t.mag\
     tgate_6t.mag
 
-SCRIPTS:
+SCRIPTS:\
     cornerSim.sh (Runs process corners tt/ss/sf/fs/ff)\
     monteCarlo.sh (Runs monte-carlo sims using tt_mm corner)\
     run_lvs_extract.sh (Extracts LVS netlist from .mag layout)\
