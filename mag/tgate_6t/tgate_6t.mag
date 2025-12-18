@@ -1,0 +1,36 @@
+magic
+tech sky130A
+timestamp 1766075710
+<< error_s >>
+rect -203 667 -134 676
+<< metal1 >>
+rect -696 686 -63 736
+rect -206 667 -131 670
+rect -206 650 -203 667
+rect -134 650 -131 667
+rect -206 647 -131 650
+rect -543 299 -363 335
+rect -366 118 -263 136
+rect -283 93 -263 118
+rect -283 76 -132 93
+rect -696 7 -63 57
+<< via1 >>
+rect -203 650 -134 667
+<< metal2 >>
+rect -206 667 -131 670
+rect -206 650 -203 667
+rect -134 650 -131 667
+rect -206 647 -131 650
+use inv  inv_0 ~/standard_cell_library/mag/inv
+timestamp 1766075075
+transform 1 0 -516 0 1 78
+box -180 -71 31 658
+use inv  inv_1
+timestamp 1766075075
+transform 1 0 -305 0 1 78
+box -180 -71 31 658
+use tgate_2t  tgate_2t_0 ~/standard_cell_library/mag/tgate_2t
+timestamp 1766075710
+transform 1 0 -252 0 1 355
+box -22 -348 189 381
+<< end >>

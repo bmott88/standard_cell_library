@@ -13,14 +13,14 @@ N 80 -70 80 70 {lab=b}
 N 30 -70 80 -70 {lab=b}
 N -120 0 -80 0 {lab=a}
 N 80 0 120 0 {lab=b}
-C {sky130_fd_pr/pfet_01v8.sym} 0 -90 1 0 {name=M4
+C {sky130_fd_pr/pfet_01v8.sym} 0 -90 1 0 {name=MP
 L=0.15
 W=2
 nf=1 mult=1
 model=pfet_01v8
 spiceprefix=X
 }
-C {sky130_fd_pr/nfet_01v8.sym} 0 90 3 0 {name=M5
+C {sky130_fd_pr/nfet_01v8.sym} 0 90 3 0 {name=MN
 L=0.15
 W=1  
 nf=1 mult=1

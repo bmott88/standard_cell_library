@@ -28,29 +28,33 @@ Circuit 1: sky130_fd_pr__pfet_01v8         |Circuit 2: sky130_fd_pr__pfet_01v8
 ---------------------------------------------------------------------------------------
 Cell pin lists are equivalent.
 Device classes sky130_fd_pr__pfet_01v8 and sky130_fd_pr__pfet_01v8 are equivalent.
-Flattening unmatched subcell sky130_fd_pr__nfet_01v8_E5WSWT in circuit inv (0)(1 instance)
-Flattening unmatched subcell sky130_fd_pr__pfet_01v8_ELW5X2 in circuit inv (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_E5WSWT in circuit tgate_2t (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_EUN5X2 in circuit tgate_2t (0)(1 instance)
 
 Subcircuit summary:
-Circuit 1: inv                             |Circuit 2: inv                             
+Circuit 1: tgate_2t                        |Circuit 2: tgate_2t                        
 -------------------------------------------|-------------------------------------------
 sky130_fd_pr__nfet_01v8 (1)                |sky130_fd_pr__nfet_01v8 (1)                
 sky130_fd_pr__pfet_01v8 (1)                |sky130_fd_pr__pfet_01v8 (1)                
 Number of devices: 2                       |Number of devices: 2                       
-Number of nets: 4                          |Number of nets: 4                          
+Number of nets: 6                          |Number of nets: 6                          
 ---------------------------------------------------------------------------------------
+Resolving symmetries by property value.
+Resolving symmetries by pin name.
 Netlists match uniquely.
 
 Subcircuit pins:
-Circuit 1: inv                             |Circuit 2: inv                             
+Circuit 1: tgate_2t                        |Circuit 2: tgate_2t                        
 -------------------------------------------|-------------------------------------------
-out                                        |out                                        
-in                                         |in                                         
-VSS                                        |VSS                                        
+b                                          |b                                          
+a                                          |a                                          
+selb                                       |selb                                       
 VDD                                        |VDD                                        
+sel                                        |sel                                        
+VSS                                        |VSS                                        
 ---------------------------------------------------------------------------------------
 Cell pin lists are equivalent.
-Device classes inv and inv are equivalent.
+Device classes tgate_2t and tgate_2t are equivalent.
 
 Final result: Circuits match uniquely.
 .

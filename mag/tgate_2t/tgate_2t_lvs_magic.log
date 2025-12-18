@@ -18,12 +18,12 @@ Root cell box:
 microns:   0.000 x 0.000   ( 0.000,  0.000), ( 0.000,  0.000)
 lambda:     0.00 x 0.00    (  0.00,  0.00 ), (  0.00,  0.00 )
 internal:      0 x 0       (     0,  0    ), (     0,  0    )
-Warning: cell <inv> from file inv.mag is not writeable
-Cell inv read from current working directory
-Warning: cell <sky130_fd_pr__pfet_01v8_ELW5X2> from file sky130_fd_pr__pfet_01v8_ELW5X2.mag is not writeable
-Cell sky130_fd_pr__pfet_01v8_ELW5X2 read from current working directory
-Cell sky130_fd_pr__nfet_01v8_E5WSWT read from current working directory
-Extracting sky130_fd_pr__pfet_01v8_ELW5X2 into extfiles/sky130_fd_pr__pfet_01v8_ELW5X2.ext:
+Warning: cell <tgate_2t> from file tgate_2t.mag is not writeable
+Cell tgate_2t read from current working directory
+Warning: cell <sky130_fd_pr__pfet_01v8_EUN5X2> from file sky130_fd_pr__pfet_01v8_EUN5X2.mag is not writeable
+Cell sky130_fd_pr__pfet_01v8_EUN5X2 read from current working directory
+Cell sky130_fd_pr__nfet_01v8_E5WSWT read from path /home/bmott/standard_cell_library/mag/inv
+Extracting sky130_fd_pr__pfet_01v8_EUN5X2 into extfiles/sky130_fd_pr__pfet_01v8_EUN5X2.ext:
 Extracting sky130_fd_pr__nfet_01v8_E5WSWT into extfiles/sky130_fd_pr__nfet_01v8_E5WSWT.ext:
-Extracting inv into extfiles/inv.ext:
+Extracting tgate_2t into extfiles/tgate_2t.ext:
 exttospice finished.

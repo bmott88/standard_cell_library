@@ -1,46 +1,48 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1766065874
+timestamp 1766075075
 << viali >>
-rect -20 1266 330 1300
-rect -20 46 330 80
+rect -290 1246 -8 1280
+rect -290 -106 -8 -72
 << metal1 >>
-rect -56 1300 366 1336
-rect -56 1266 -20 1300
-rect 330 1266 366 1300
-rect -56 1256 366 1266
-rect 50 1176 94 1256
-rect 50 800 128 1176
-rect 182 800 296 1176
-rect 122 604 188 726
-rect -56 532 188 604
-rect 122 396 188 532
-rect 256 604 296 800
-rect 256 532 366 604
-rect 256 346 296 532
-rect 50 170 128 346
-rect 182 170 296 346
-rect 50 90 94 170
-rect -56 80 366 90
-rect -56 46 -20 80
-rect 330 46 366 80
-rect -56 10 366 46
-use sky130_fd_pr__nfet_01v8_HJP2VQ  XMN
-timestamp 1766023885
-transform 1 0 155 0 1 289
-box -211 -279 211 279
-use sky130_fd_pr__pfet_01v8_7WBWU4  XMP
-timestamp 1766023885
-transform 1 0 155 0 1 952
-box -211 -384 211 384
+rect -360 1280 62 1316
+rect -360 1246 -290 1280
+rect -8 1246 62 1280
+rect -360 1216 62 1246
+rect -290 1086 -244 1216
+rect -192 1138 -106 1184
+rect -290 1036 -176 1086
+rect -210 708 -176 1036
+rect -122 758 -88 1086
+rect -122 708 -8 758
+rect -182 306 -116 650
+rect -54 256 -8 708
+rect -210 130 -176 256
+rect -290 80 -176 130
+rect -122 206 -8 256
+rect -122 80 -88 206
+rect -290 -42 -244 80
+rect -192 -10 -106 36
+rect -360 -72 62 -42
+rect -360 -106 -290 -72
+rect -8 -106 62 -72
+rect -360 -142 62 -106
+use sky130_fd_pr__nfet_01v8_E5WSWT  XMN
+timestamp 1766075075
+transform 1 0 -149 0 1 168
+box -211 -310 211 310
+use sky130_fd_pr__pfet_01v8_ELW5X2  XMP
+timestamp 1766074289
+transform 1 0 -149 0 1 897
+box -211 -419 211 419
 << labels >>
-rlabel metal1 -56 532 188 604 1 in
+rlabel metal1 -182 306 -116 650 1 in
 port 0 n
-rlabel metal1 256 532 366 604 1 out
+rlabel metal1 -54 206 -8 758 1 out
 port 1 n
-rlabel metal1 -56 1256 366 1336 1 VDD
+rlabel metal1 -360 1280 62 1316 1 VDD
 port 2 n
-rlabel metal1 -56 10 366 90 1 VSS
+rlabel metal1 -360 -142 62 -106 1 VSS
 port 3 n
 << end >>
