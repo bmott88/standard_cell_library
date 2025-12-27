@@ -1,5 +1,5 @@
 ** sch_path: /home/bmott/standard_cell_library/xsch/ip/tgate/tgate_2t.sch
-.subckt tgate_2t a b sel selb VDD VSS
+**.subckt tgate_2t a b sel selb VDD VSS
 *.iopin a
 *.iopin b
 *.iopin VDD

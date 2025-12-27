@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1766075710
+timestamp 1766176949
 << viali >>
 rect 26 692 308 726
 rect 26 -660 308 -626
@@ -28,12 +28,12 @@ rect -44 -626 378 -596
 rect -44 -660 26 -626
 rect 308 -660 378 -626
 rect -44 -696 378 -660
-use sky130_fd_pr__nfet_01v8_E5WSWT__0  XMN ~/standard_cell_library/mag/inv
-timestamp 1766075075
+use sky130_fd_pr__nfet_01v8_E5WSWT__0  XMN
+timestamp 1766176788
 transform 1 0 167 0 1 -386
 box -211 -310 211 310
-use sky130_fd_pr__pfet_01v8_EUN5X2  XMP
-timestamp 1766075075
+use sky130_fd_pr__pfet_01v8_ELW5X2__0  XMP
+timestamp 1766176788
 transform 1 0 167 0 1 343
 box -211 -419 211 419
 << labels >>
