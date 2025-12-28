@@ -1,0 +1,124 @@
+puts stdout "Sourcing design .magicrc for technology sky130A ..."
+
+# Put grid on 0.005 pitch.  This is important, as some commands don't
+# rescale the grid automatically (such as lef read?).
+
+set scalefac [tech lambda]
+if {[lindex $scalefac 1] < 2} {
+    scalegrid 1 2
+}
+
+# drc off
+drc euclidean on
+# Change this to a fixed number for repeatable behavior with GDS writes
+# e.g., "random seed 12345"
+catch {random seed}
+
+# Turn off the scale option on ext2spice or else it conflicts with the
+# scale in the model files.
+ext2spice scale off
+
+# Allow override of PDK path from environment variable PDK_ROOT
+# "file nativename" guards against a local PDK_ROOT with "~" in the name
+if {[catch {set PDK_ROOT [file nativename $env(PDK_ROOT)]}]} {
+    set PDK_ROOT /opt/pdk/share/pdk
+}
+
+# loading technology
+tech load $PDK_ROOT/sky130A/libs.tech/magic/sky130A.tech
+
+# halt on error
+if {[tech name] != "sky130A"} {quit -noprompt}
+
+# load device generator
+source $PDK_ROOT/sky130A/libs.tech/magic/sky130A.tcl
+
+# load bind keys (optional)
+# source $PDK_ROOT/sky130A/libs.tech/magic/sky130A-BindKeys
+
+# set units to lambda grid 
+snap lambda
+
+# set sky130 standard power, ground, and substrate names
+set VDD VPWR
+set GND VGND
+set SUB VSUBS
+
+# Allow override of type of magic library views used, "mag" or "maglef",
+# from environment variable MAGTYPE
+
+if {[catch {set MAGTYPE $env(MAGTYPE)}]} {
+   set MAGTYPE mag
+}
+
+# add path to reference cells
+if {[file isdir ${PDK_ROOT}/sky130A/libs.ref/${MAGTYPE}]} {
+    addpath ${PDK_ROOT}/sky130A/libs.ref/${MAGTYPE}/sky130_fd_pr
+    addpath ${PDK_ROOT}/sky130A/libs.ref/${MAGTYPE}/sky130_fd_io
+    addpath ${PDK_ROOT}/sky130A/libs.ref/${MAGTYPE}/sky130_fd_sc_hd
+    addpath ${PDK_ROOT}/sky130A/libs.ref/${MAGTYPE}/sky130_fd_sc_hdll
+    addpath ${PDK_ROOT}/sky130A/libs.ref/${MAGTYPE}/sky130_fd_sc_hs
+    addpath ${PDK_ROOT}/sky130A/libs.ref/${MAGTYPE}/sky130_fd_sc_hvl
+    addpath ${PDK_ROOT}/sky130A/libs.ref/${MAGTYPE}/sky130_fd_sc_lp
+    addpath ${PDK_ROOT}/sky130A/libs.ref/${MAGTYPE}/sky130_fd_sc_ls
+    addpath ${PDK_ROOT}/sky130A/libs.ref/${MAGTYPE}/sky130_fd_sc_ms
+    addpath ${PDK_ROOT}/sky130A/libs.ref/${MAGTYPE}/sky130_osu_sc
+    addpath ${PDK_ROOT}/sky130A/libs.ref/${MAGTYPE}/sky130_osu_sc_t18
+    addpath ${PDK_ROOT}/sky130A/libs.ref/${MAGTYPE}/sky130_ml_xx_hd
+    addpath ${PDK_ROOT}/sky130A/libs.ref/${MAGTYPE}/sky130_fd_bd_sram
+    addpath ${PDK_ROOT}/sky130A/libs.ref/${MAGTYPE}/sky130_sram_macros
+} else {
+    addpath ${PDK_ROOT}/sky130A/libs.ref/sky130_fd_pr/${MAGTYPE}
+    addpath ${PDK_ROOT}/sky130A/libs.ref/sky130_fd_io/${MAGTYPE}
+    addpath ${PDK_ROOT}/sky130A/libs.ref/sky130_fd_sc_hd/${MAGTYPE}
+    addpath ${PDK_ROOT}/sky130A/libs.ref/sky130_fd_sc_hdll/${MAGTYPE}
+    addpath ${PDK_ROOT}/sky130A/libs.ref/sky130_fd_sc_hs/${MAGTYPE}
+    addpath ${PDK_ROOT}/sky130A/libs.ref/sky130_fd_sc_hvl/${MAGTYPE}
+    addpath ${PDK_ROOT}/sky130A/libs.ref/sky130_fd_sc_lp/${MAGTYPE}
+    addpath ${PDK_ROOT}/sky130A/libs.ref/sky130_fd_sc_ls/${MAGTYPE}
+    addpath ${PDK_ROOT}/sky130A/libs.ref/sky130_fd_sc_ms/${MAGTYPE}
+    addpath ${PDK_ROOT}/sky130A/libs.ref/sky130_osu_sc/${MAGTYPE}
+    addpath ${PDK_ROOT}/sky130A/libs.ref/sky130_osu_sc_t18/${MAGTYPE}
+    addpath ${PDK_ROOT}/sky130A/libs.ref/sky130_ml_xx_hd/${MAGTYPE}
+    addpath ${PDK_ROOT}/sky130A/libs.ref/sky130_fd_bd_sram/${MAGTYPE}
+    addpath ${PDK_ROOT}/sky130A/libs.ref/sky130_sram_macros/${MAGTYPE}
+}
+
+# add path to GDS cells
+
+# add path to IP from catalog.  This procedure defined in the PDK script.
+catch {magic::query_mylib_ip}
+# add path to local IP from user design space.  Defined in the PDK script.
+catch {magic::query_my_projects}
+
+#--------------------------------------------------------------------------
+#                       Personal Shortcuts Added
+#--------------------------------------------------------------------------
+
+# General
+macro XK_k "meas"
+macro ^k "unmeas"
+macro q "magic::gencell {} ; raise .params"
+macro <del> "delete"
+macro e "sideways"
+macro ^e "upsidedown"
+
+# Number Row Shortcuts ----------------------------------------------
+# Numpad (See only specified Layer)
+macro XK_1 "see no *; see m1; see rmetal1; see via1"
+macro XK_2 "see no *; see m2; see rmetal2; see via1; see via2"
+macro XK_3 "see no *; see m3; see rmetal3; see via2; see via3"
+macro XK_4 "see no *; see m4; see rmetal4; see via3; see via4"
+macro XK_5 "see no *; see m5; see rmetal5; see via4"
+macro XK_8 "see no *; see nwell; see pwell; see mcon; see li; see viali; see locali; see ndcontact; see pdcontact; see nfetlvt; see pfetlvt; see psubstratepdiff; see nsubstratendiff; see psubstratepcontact; see nsubstratencontact; see polysilicon; see pcontact; see xpolycontact; see xpolyres; see mimcap; see ntransistor; see ptransistor; see pdiffusion; see ndiffusion"
+macro XK_9 "see *"
+
+# Alt-Numpad (Append layer)
+macro Meta_XK_1 "see m1; see rmetal1; see via1"
+macro Meta_XK_2 "see m2; see rmetal2; see via2"
+macro Meta_XK_3 "see m3; see rmetal3; see via3"
+macro Meta_XK_4 "see m4; see rmetal4; see via4"
+macro Meta_XK_5 "see m5; see rmetal5"
+macro Meta_XK_8 "see nwell; see pwell; see mcon; see li; see viali; see locali; see ndcontact; see pdcontact; see nfetlvt; see pfetlvt; see psubstratepdiff; see nsubstratendiff; see psubstratepcontact; see nsubstratencontact; see polysilicon; see pcontact; see xpolycontact; see xpolyres; see mimcap; see ntransistor; see ptransistor; see pdiffusion; see ndiffusion"
+macro Meta_XK_9 "see *"
+macro Meta_XK_0 "cif see VIA1; cif see VIA2; cif see VIA3; cif see VIA4"

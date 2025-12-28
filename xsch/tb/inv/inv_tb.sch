@@ -6,26 +6,29 @@ S {}
 F {}
 E {}
 B 2 190 -200 990 200 {flags=graph
-y1=0
-y2=2
+y1=2.4e-05
+y2=1.9
 ypos1=0
 ypos2=2
 divy=5
-subdivy=1
+subdivy=4
 unity=1
-x1=-0.049821981
-x2=1.8109191
+x1=-0.32293449
+x2=1.4770652
 divx=5
-subdivx=1
+subdivx=4
 xlabmag=1.0
 ylabmag=1.0
-node="out
-in"
 dataset=-1
 unitx=1
 logx=0
 logy=0
-color="5 12"}
+color=4
+node=out
+digital=0
+rainbow=0
+sim_type=dc
+rawfile=$netlist_dir/inv_dc.raw}
 N 100 0 140 0 {lab=out}
 N -130 -0 -60 0 {lab=in}
 N 0 40 0 60 {lab=GND}
@@ -38,9 +41,9 @@ C {sky130_fd_pr/corner.sym} -290 -140 0 0 {name=CORNER only_toplevel=false corne
 C {devices/code.sym} -290 40 0 0 {name=SIM only_toplevel=false value="
 
 .control
-
-dc V1 0 1.8 1m
-wrdata OUTPUT.csv v(out)
+save v(out)
+dc V1 0 1.8 0.01
+write inv_dc.raw
 quit
 .endc
 "}
